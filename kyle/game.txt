@@ -1,0 +1,29 @@
+#START
+
+~ Story
+^
+^
+^
+^
+^
+^
+^
+   ____^
+  / __ \^
+ / / / /^
+/ /_/ /^
+\____/ nce upon a time, there was a lovely man but he had an
+enchantment of a fearful sort which could only be broken by the power released
+upon the sweet death of the dark soul that bewitched thee.
+^
+^
+^
+So he sets forth on his journey...battling anything that steps in his way
+^
+^
+^
+^
+^
+~ Story
+
+&
